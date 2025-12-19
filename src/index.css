@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 22px;
+  cursor: pointer;
+  background-color: aqua;
+  color: blue;
+}
+
+button:nth-child(3){
+  background-color: red;
+}
+button:nth-child(4){
+  background-color: black;
+  color: aqua;
+}
+h1{
+  color: red;
+}
